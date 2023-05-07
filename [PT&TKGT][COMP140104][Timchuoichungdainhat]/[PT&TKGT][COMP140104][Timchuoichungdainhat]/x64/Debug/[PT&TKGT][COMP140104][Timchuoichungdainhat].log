@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Github\BT-PTTKGT\[PT&TKGT][COMP140104][Timchuoichungdainhat]\[PT&TKGT][COMP140104][Timchuoichungdainhat]\Source.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github\BT-PTTKGT\[PT&TKGT][COMP140104][Timchuoichungdainhat]\[PT&TKGT][COMP140104][Timchuoichungdainhat]\Source.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  [PT&TKGT][COMP140104][Timchuoichungdainhat].vcxproj -> D:\Github\BT-PTTKGT\[PT&TKGT][COMP140104][Timchuoichungdainhat]\x64\Debug\[PT&TKGT][COMP140104][Timchuoichungdainhat].exe
